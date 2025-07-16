@@ -1,4 +1,3 @@
-https://pin.it/2ezzPeOUW
 # 💫 About Me:
 I’m currently pursuing B.Tech CSE from ITER SOA Bhubaneshwar.<br>I’m currently learning Web Development.<br>Having an aim to master DevOps.<br>Enjoys doing Archery and Sketching.
 
