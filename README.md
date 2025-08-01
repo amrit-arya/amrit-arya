@@ -18,7 +18,5 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=amrit-arya&theme=discord)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=amrit-arya&theme=xcode)
-
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-arya&layout=compact&theme=blue-green)
 
