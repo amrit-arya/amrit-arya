@@ -1,5 +1,5 @@
 <p align="center">
- <img src="C:\Users\Win11\Pictures\gifs\9070324cdfc07c68d60eed0c39e77573.gif" width="100" height="100" />
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fdesktop-gif%2F942625269223%2F&psig=AOvVaw14bNl-kL3P7fBKeSENSrqe&ust=1754112116260000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj3gYDv6I4DFQAAAAAdAAAAABBZ" width="100" height="100" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=amrit-arya&color=blue)
