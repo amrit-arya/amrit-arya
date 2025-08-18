@@ -50,8 +50,13 @@ I don’t just chase solutions. I architect systems, tame complexity, and turn i
 ## 🛠️ Geek Gears  
 
 **Languages**: `Python` `JavaScript` `Java`
-**Databases**: `MySQL` `MongoDB`  
-**Tools**: `Git` `VS Code`  
+
+**Databases**: `MySQL` `MongoDB`
+
+**OS**: `Ubuntu`
+
+**Tools**: `Git` `VS Code`
+
 **Interests**: `Linux` `Devops` `AI` `ML` `Flutter`
 
 ---
