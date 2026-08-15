@@ -14,18 +14,6 @@
 </table>
 
 
-<!-- ======================= HERO BANNER ======================= -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d2e,100:00c853&height=220&section=header&text=AMRIT%20ARYA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20AUTOMATE&descAlignY=60&descSize=17&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:e8f5e9,100:00a844&height=220&section=header&text=AMRIT%20ARYA&fontSize=55&fontColor=0b3d2e&fontAlignY=38&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20AUTOMATE&descAlignY=60&descSize=17&animation=fadeIn">
-    <img alt="AMRIT ARYA — Code • Build • Automate" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d2e,100:00c853&height=220&section=header&text=AMRIT%20ARYA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20AUTOMATE&descAlignY=60&descSize=17&animation=fadeIn">
-  </picture>
-</p>
-
-<br>
-
 <!-- ======================= INTRO ======================= -->
 
 <h1 align="center">Hey there, I'm AMRIT ARYA 👋</h1>
@@ -145,47 +133,46 @@ I'm a **Computer Science student** passionate about building systems that are re
 
 <br>
 
-<!-- ======================= GITHUB STATS ======================= -->
+<!-- ======================= GITHUB ANALYTICS ======================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=amrit-arya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00c853&icon_color=00c853&text_color=7d8590&bg_color=00000000"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=amrit-arya&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+    alt="Amrit Arya GitHub Stats"
   />
-  &nbsp;&nbsp;
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-arya&layout=compact&hide_border=true&langs_count=8&title_color=00c853&text_color=7d8590&bg_color=00000000"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-arya&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+    alt="Amrit Arya Top Languages"
   />
 </p>
 
 <br>
 
-<!-- ======================= STREAK ======================= -->
+<!-- ======================= GITHUB STREAK ======================= -->
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=amrit-arya&theme=transparent&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=00C853&dates=7D8590&currStreakNum=00C853&sideNums=00C853"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=amrit-arya&theme=transparent&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=00C853&dates=7D8590&currStreakNum=00C853&sideNums=00C853"
+    alt="Amrit Arya GitHub Streak"
   />
 </p>
 
 <br>
 
-<!-- ======================= ACTIVITY GRAPH ======================= -->
+<!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amrit-arya&bg_color=00000000&color=00c853&line=00c853&point=00c853&area=true&hide_border=true&custom_title=AMRIT%20ARYA'S%20CONTRIBUTION%20GRAPH"
-    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amrit-arya&bg_color=00000000&color=00c853&line=00c853&point=00c853&area=true&hide_border=true&custom_title=AMRIT%20ARYA%27S%20CONTRIBUTION%20GRAPH"
+    alt="Amrit Arya Contribution Activity"
   />
 </p>
 
@@ -197,11 +184,17 @@ I'm a **Computer Science student** passionate about building systems that are re
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amrit-arya/amrit-arya/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amrit-arya/amrit-arya/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/amrit-arya/amrit-arya/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/amrit-arya/amrit-arya/output/github-contribution-grid-snake.svg"
+    >
     <img
-      alt="GitHub contribution snake animation"
       src="https://raw.githubusercontent.com/amrit-arya/amrit-arya/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
     >
   </picture>
 </p>
