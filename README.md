@@ -254,10 +254,10 @@ jobs:
     <img src="https://img.shields.io/badge/LinkedIn-AMRIT%20ARYA-00C853?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
   </a>
   <a href="https://amrit-arya-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-amrit--arya.dev-00C853?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Personal Website">
+    <img src="https://img.shields.io/badge/Website-amrit--arya-00C853?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Personal Website">
   </a>
   <a href="mailto:amritaryajsr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amrit.arya%40example.com-00C853?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
+    <img src="https://img.shields.io/badge/Email-amritaryajsr%40gmail.com-00C853?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
   </a>
 </p>
 
